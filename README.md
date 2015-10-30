@@ -26,3 +26,19 @@ You can install via [Homebrew](http://brew.sh)
 
     $ apm config
     delete  edit    get     list    set
+
+## Manual Usage
+
+Just get the file `apm` and call `source apm` (or add it to your bash environment)
+
+## Contribution
+
+Please let me know if you need some more options. Please create an issue
+and make a request. Also If you like to improve or add more features
+please fork it and you know the rest :)
+
+1. Fork it ( https://github.com/vigo/apm-bash-completion )
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request
