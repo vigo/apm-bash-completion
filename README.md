@@ -23,3 +23,6 @@ You can install via [Homebrew](http://brew.sh)
 
     $ apm publish
     build  major  minor  patch
+
+    $ apm config
+    delete  edit    get     list    set
