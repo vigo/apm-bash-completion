@@ -57,7 +57,7 @@ it and you know the rest :)
 
 ---
 
-## Contributer(s)
+## Contributor(s)
 
 * [Uğur "vigo" Özyılmazel](https://github.com/vigo) - Creator, maintainer
 
